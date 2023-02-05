@@ -1,4 +1,4 @@
-//function generic
+//generic function
 function display<template>(value: template): template {
   console.log(value);
   return value;
